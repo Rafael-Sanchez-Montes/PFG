@@ -5,20 +5,21 @@ Se necesita activar los modulos de APACHE y MYSQL en el servidor local Tambien g
 
 USUARIOS Y CONTRASEÑAS:
 
-ADMINISTRADOR:
+  - ADMINISTRADOR:
 
-USUARIO: admin
-CONTRASEÑA: admin
-USUARIOS:
+    - USUARIO: admin
+    - CONTRASEÑA: admin
 
-USUARIO: ivan
+  - USUARIOS:
 
-CONTRASEÑA: rl_wow
+    - USUARIO: ivan
 
-USUARIO: luis
+    - CONTRASEÑA: rl_wow
 
-CONTRASEÑA: guadix
+    - USUARIO: luis
 
-USUARIO: pablo
+    - CONTRASEÑA: guadix
 
-CONTRASEÑA: sport
+    - USUARIO: pablo
+
+    - CONTRASEÑA: sport
