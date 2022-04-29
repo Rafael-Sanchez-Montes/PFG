@@ -1,0 +1,20 @@
+.certificado{
+    background-color: #74B435;
+    color: white;
+    text-align: center;
+    height: 400px;
+    padding-top: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.certificado h2{
+    font-size: 54px;
+}
+
+.certificado p{
+    font-size: 17px;
+    padding-left: 22%;
+    padding-right: 22%;
+    padding-bottom: 20px;
+}

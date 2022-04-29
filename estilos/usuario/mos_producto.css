@@ -1,0 +1,50 @@
+.titulo_pro{
+    text-align: center;
+    font-size: 48px;
+    font-style: italic;
+}
+
+.grupo_cartas{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 80%;
+    margin: auto;
+    align-items: center;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+.cartas{
+    background-color: #F6F6F6;
+    border-radius: 5%;
+    margin: 10px;
+    width: 300px;
+    height: 550px;
+    text-align: center;
+}
+
+.cartas img{
+    height: 250px;
+    border-radius: 5%;
+    margin-top: 10px;
+    margin-bottom: 7px;
+}
+
+.cartas .info{
+    width: 90%;
+    padding-top: 10%;
+    margin: auto;
+    height: 200px;
+    word-wrap: break-word;
+}
+
+.formu {
+    height: 50px;
+    cursor: none;
+}
+
+.relleno{
+
+    height: 40px;
+}

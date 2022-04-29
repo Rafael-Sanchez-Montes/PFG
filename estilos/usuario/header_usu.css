@@ -1,0 +1,50 @@
+#menu{
+    display: flex;
+	justify-content: space-around;
+	width: 100%;
+    height: 110px;
+    background-color: #74B435;
+}
+
+#menu img{
+    height: 100px;
+    margin-top: 5px;
+}
+
+#menu button{
+    display: flex;
+	justify-content: space-around;
+	width: 100%;
+    height: 110px;
+    background-color: #74B435;
+}
+
+imagen a{
+    text-decoration:none;
+    padding-top: 50px;
+}
+
+div.enlace{
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+div.enlace:hover{
+    background-color: white;
+    border-style: hidden;
+    border-radius: 10px;
+    font-weight:bolder;
+}
+
+div.enlace a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    padding: 10px;
+}
+
+li.tel i{
+    transform: rotate(90deg)
+}

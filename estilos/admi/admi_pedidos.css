@@ -1,0 +1,42 @@
+.formulario_btn{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.formulario label, .formulario_btn label{
+    margin-bottom: 5px;
+}
+
+.triple_btn{
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+.espacio{
+    min-height: calc(100vh - 100px - 250px);
+}
+
+.table{
+    width: 80%;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.table .si{
+    color: green;
+    font-weight: bolder;
+}
+
+
+.table .no{
+    color: red;
+    font-weight: bolder;
+}

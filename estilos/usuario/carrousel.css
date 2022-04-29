@@ -1,0 +1,34 @@
+#carousel-imagenes{
+margin: 0px;
+min-height: calc(100vh - 110px - 150px);
+}
+
+.fondoTransparente{
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+}
+
+.fluid-carousel .carousel-item{
+    height: 700px;
+    background-size: cover;
+    background-position: center;
+}
+
+.fluid-carousel .carousel-item:nth-child(1){
+    background-image: url(../../imagenes/carousel/1.jpg);
+
+}
+
+.fluid-carousel .carousel-item:nth-child(2){
+    background-image: url(../../imagenes/carousel/2.jpg);
+}
+
+.fluid-carousel .carousel-item:nth-child(3){
+    background-image: url(../../imagenes/carousel/3.jpg);
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon{
+    background-color: #2A0000;
+    padding: 15px;
+}
+

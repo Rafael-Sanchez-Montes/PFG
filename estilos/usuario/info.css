@@ -1,0 +1,44 @@
+.cont_info{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.imagen_info{
+    width: 40%;
+    height: 100%;
+    margin-top: 0px; 
+}
+
+.imagen_info img{
+    width: 90%;
+    height: 100%;
+    margin: 10px;
+}
+
+.texto_info{
+    width: 50%;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-style: italic;
+}
+
+.texto_info h2{
+    font-size: 48px;
+    text-align: center;
+}
+
+.texto_info p{
+    font-size: 20px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.texto_info hr{
+    width: 90%;
+    background-color: black;
+}
+
+.pro_random{
+    height: 400px;
+}

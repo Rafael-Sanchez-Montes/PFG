@@ -1,0 +1,13 @@
+.cajon_foto{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 70%;
+    margin: auto;
+}
+
+.foto_premio{
+    width: 120px;
+    height: 90px;
+    padding: 30px;
+}

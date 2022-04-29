@@ -1,0 +1,66 @@
+.container{
+    min-height: calc(100vh - 1px - 250px);
+}
+
+.formulario{
+    width: 40%;    
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.formulario label{
+    background-color:darkolivegreen;
+    color: white;
+    padding: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 10px;
+}
+
+.bloque{
+    text-align: center;
+}
+
+.aviso{
+    width: 50%;
+    height: 70px;
+    background-color: red;
+    border: 1px solid black;
+    color: white;
+    margin: auto;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.resumen{
+    width: 80%;
+    margin: auto;
+    background-color: #F6F6F6;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+}
+
+.resumen hr{
+    height: 3px;
+    width: 83%;
+    color: black;
+}
+
+.cuadro{
+    width: 75%;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: left;
+}
+
+.table{
+    width: 65%;
+    margin: auto;
+    margin-bottom: 60px;
+    
+}

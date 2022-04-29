@@ -1,0 +1,18 @@
+.info_pro{
+    display: flex;
+    padding-top: 50px;
+    width: 90%;
+    margin: auto;
+    min-height: calc(100vh - 10px - 250px);
+}
+
+.imagen img{
+    height: 400px;
+    margin-left: 40px;
+    margin-right: 20px;
+}
+
+div .info{
+    padding-top: 90px;
+    width: 60%;
+}

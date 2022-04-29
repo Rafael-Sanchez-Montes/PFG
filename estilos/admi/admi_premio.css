@@ -1,0 +1,29 @@
+.formulario{
+    width: 40%;
+    margin-left: 70px;
+    margin-top: 75px;
+}
+
+.table{
+    width: 90%;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.table img{
+    height: 60px;
+}
+
+.table .si{
+    color: green;
+    font-weight: bolder;
+}
+
+
+.table .no{
+    color: red;
+    font-weight: bolder;
+}
